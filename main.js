@@ -16,7 +16,7 @@ for (let i = 0; i< numeroPersona;i++){
 
     if (resultadoImc <18.5){
         alert ("Está bajo peso, necesita aumentar su masa corporal. Para ello es importante acudir a un profesional capacitado");
-    } else if (resultadoImc >=18.5 && resultadoImc<24.9){
+    } else if (resultadoImc >=18.5 && resultadoImc<25){
         alert ("Está en un peso saludable, su salud es óptima!");
     }else if (resultadoImc >=25 && resultadoImc <30){
         alert ("Está con sobrepeso, necesita mejorar sus habitos por lo que le recomendamos acudir a un profesional capacitado!");
